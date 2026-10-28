@@ -1,0 +1,21 @@
+{
+  "compiled_on": "2026-10-28",
+  "sources": [
+    {
+      "source_id": "S1",
+      "filename": "資管期末報告.pdf",
+      "sha256": "af119e34cb4160f87f04d476063cdca5d6d42ee29a81406e22baffd33bfdfe2c",
+      "pages": 32,
+      "public_copy": "presentation/original-case-presentation.pdf",
+      "preservation": "byte-for-byte original; no edits, redaction, or redesigned slides"
+    },
+    {
+      "source_id": "S2",
+      "filename": "8-Developing an interesting IS Case Study.pdf",
+      "pages_reviewed": 41,
+      "public_copy": null,
+      "preservation": "Previously reviewed text and page previews retained locally; teaching PDF is not redistributed."
+    }
+  ],
+  "note": "Source hashes establish file identity, not factual validity. Analytical documents are retrospective interpretation, separate from the original deck."
+}

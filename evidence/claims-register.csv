@@ -1,0 +1,10 @@
+claim_id,claim_type,statement,evidence_ids,theory_ids,current_status
+C01,reported_observation,原稿記載會員內容及數位工具服務,E02;E03;E04,,source_report_only
+C02,interpretation,模式借鏡不足以單獨證明技術徵用,E06,T1,conceptual_assessment
+C03,interpretation,擴大客群不足以單獨證明長尾價值,E02;E07,T2,conceptual_assessment
+C04,interpretation,金控獲利表不能直接推論券商競爭地位,E10,,source_scope_assessment
+C05,recommendation,優先以單一客群檢驗內容與會員服務,E02;E07;E08,T2;T3,not_implemented
+P1,proposition,新用途與可辨識實踐是本案判定技術徵用需要的條件,E06,T1,not_empirically_tested
+P2,proposition,內容重用和需求發現可能增加小眾題材重複使用但需檢查成本,E02;E07,T2,not_empirically_tested
+P3,proposition,實際執行的更新歸屬和交接責任可能減少服務摩擦,E03;E04;E07;E08,T3;T4,not_empirically_tested
+P4,proposition,功能相近時累積的研究與回應能力可能保留相對任務價值,E08;E09,T5,not_empirically_tested
